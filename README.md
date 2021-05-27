@@ -1,4 +1,4 @@
-# AWS-GuardDuty
+# Automation AWS-GuardDuty findings 
 Get an SNS alert for High Severity GuardDuty findings<br><br>
 Problem: Getting notified when there is Red finding in guardduty.
 <BR><br>
