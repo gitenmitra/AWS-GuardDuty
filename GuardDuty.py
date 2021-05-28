@@ -1,3 +1,7 @@
+#@author: Giten Mitra
+#Date: 21 May 2021
+#Description: 
+
 # Import the SDK
 import boto3
 from pprint import pprint
